@@ -1,0 +1,13 @@
+# Arduino / build files
+build/
+*.bin
+*.hex
+*.elf
+*.o
+*.eep
+*.map
+
+# IDE / editor
+.vscode/
+.idea/
+*.log
